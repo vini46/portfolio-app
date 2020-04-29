@@ -9,8 +9,8 @@ To Make use of this, follow the below instructions
 ```
 clone the repo
 cd portfolio-app
-yarn install
-yarn start
+npm install
+npm run start
 ```
 
 ## Packages
